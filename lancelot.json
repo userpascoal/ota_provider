@@ -1,1 +1,15 @@
-There is no official support for this device yet
+{
+  "response": [
+    {
+        "maintainer": "Burhanverse",
+        "oem": "Xiaomi",
+        "device": "lancelot",
+        "filename": "Matrixx-v10.3.0-Unofficial-lancelot-Vanilla-20240220.zip",
+        "download": "https://github.com/Release/releases/download/20240220/Matrixx-v10.3.0-Unofficial-lancelot-Vanilla-20240220.zip",
+        "timestamp": 1708366586,
+        "md5": "fbfaec0e455229212e604c0838eea960",
+        "size": 1055845078,
+        "version": "v10.3.0"
+    }
+  ]
+}
