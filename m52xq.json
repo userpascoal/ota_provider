@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "",
+                        "oem": "",
+                        "device": "nio",
+                        "filename": "crDroidAndroid-14.0-20240317-m52xq-v10.2.zip",
+                        "download": "https://github.com/userpascoal/crDroidUpdates/releases/download/v10.2-m52xq/crDroidAndroid-14.0-20240317-m52xq-v10.2.zip",
+                        "timestamp": 1710649971,
+                        "md5": "541b96059926260c9af024dfd216903c",
+                        "sha256": "8d685b1ab61a3f5c6efe585ccb3a73b660e17716900cbe2fdd0e9aab019a62e0",
+                        "size": 1335264262,
+                        "version": "10.2",
+                        "buildtype": "UNOFFICIAL",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
