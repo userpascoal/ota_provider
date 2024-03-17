@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Pascoal",
+                        "oem": "Motorola",
+                        "device": "nio",
+                        "filename": "",
+                        "download": "",
+                        "timestamp": ,
+                        "md5": "",
+                        "sha256": "",
+                        "size": ,
+                        "version": "",
+                        "buildtype": "UNOFFICIAL",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
