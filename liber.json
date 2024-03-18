@@ -1,28 +1,28 @@
-{                                                                                                                                                                       |
-        "response": [                                                                                                                                                   |
-                {                                                                                                                                                       |
-                        "maintainer": "Pascoal",                                                                                                                               |
-                        "oem": "Motorola",                                                                                                                                      |
-                        "device": "liber",                                                                                                                                   |
-                        "filename": "crDroidAndroid-14.0-20240318-liber-v10.2.zip",                                                                                     |
-                        "download": "",                  |
-                        "timestamp": ,                                                                                                                        |
-                        "md5": "",                                                                                                      |
-                        "sha256": "",                                                                   |
-                        "size": ,                                                                                                                               |
-                        "version": "10.2",                                                                                                                              |
-                        "buildtype": "UNOFFICIAL",                                                                                                                                |
-                        "forum": "",                                                                                                                                    |
-                        "gapps": "",                                                                                                                                    |
-                        "firmware": "",                                                                                                                                 |
-                        "modem": "",                                                                                                                                    |
-                        "bootloader": "",                                                                                                                               |
-                        "recovery": "",                                                                                                                                 |
-                        "paypal": "",                                                                                                                                   |
-                        "telegram": "",                                                                                                                                 |
-                        "dt": "",                                                                                                                                       |
-                        "common-dt": "",                                                                                                                                |
-                        "kernel": ""                                                                                                                                    |
-                }                                                                                                                                                       |
-        ]                                                                                                                                                               |
+{                                                                                                                                            
+        "response": [                                                                                                                                    
+                {                                                                                                                                                       
+                        "maintainer": "Pascoal",                                                                                                                               
+                        "oem": "Motorola",                                                                                                                                      
+                        "device": "liber",                                                                                                                                  
+                        "filename": "crDroidAndroid-14.0-20240318-liber-v10.2.zip",                                                                                     
+                        "download": "https://github.com/userpascoal/crDroidUpdates/releases/download/v10.2-liber/crDroidAndroid-14.0-20240318-liber-v10.2.zip",                  
+                        "timestamp": 1710790293,                                                                                                                        
+                        "md5": "7ab09ff1884ce4106a0b5cf2421eabbd",                                                                                                      
+                        "sha256": "1eb015c0a9f1719141b12d4995782f594119825bef92424fb52ccbc78d0ec1e3",                                                                   
+                        "size": 938180878,                                                                                                                              
+                        "version": "10.2",                                                                                                                              
+                        "buildtype": "UNOFFICIAL",                                                                                                                                
+                        "forum": "",                                                                                                                                   
+                        "gapps": "",                                                                                                                                  
+                        "firmware": "",                                                                                                                                
+                        "modem": "",                                                                                                                                   
+                        "bootloader": "",                                                                                                                               
+                        "recovery": "",                                                                                                                               
+                        "paypal": "",                                                                                                                                   
+                        "telegram": "",                                                                                                                             
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""  
+                }                                                                                                                                                       
+        ]                                                                                                                                                               
 }
